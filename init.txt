@@ -1,0 +1,3 @@
+4,School Work,Weekly,true,6
+1,Other Work,Never,true
+3,Tests,Never,true
